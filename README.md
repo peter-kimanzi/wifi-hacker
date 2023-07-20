@@ -17,3 +17,5 @@ Shell Script For accessing Wireless Connections Using Built-In Kali Tools. Suppo
  - cd wifi-hacker
 
  - chmod +x *
+
+ - ls
