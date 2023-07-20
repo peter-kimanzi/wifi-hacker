@@ -29,3 +29,6 @@ Shell Script For accessing Wireless Connections Using Built-In Kali Tools. Suppo
  of this license document, but changing it is not allowed.
 
  ## Preamble
+
+The GNU General Public License is a free, copyleft license for
+software and other kinds of works.
