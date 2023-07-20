@@ -7,3 +7,5 @@ Shell Script For accessing Wireless Connections Using Built-In Kali Tools. Suppo
  - pkg install wget
  
  - pkg install openssh
+   
+ - pkg install php
