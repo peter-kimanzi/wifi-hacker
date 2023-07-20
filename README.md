@@ -23,3 +23,8 @@ Shell Script For accessing Wireless Connections Using Built-In Kali Tools. Suppo
  - bash wifi-hacker.sh
 
 # LICENSE
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
