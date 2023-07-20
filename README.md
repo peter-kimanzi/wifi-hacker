@@ -13,3 +13,5 @@ Shell Script For accessing Wireless Connections Using Built-In Kali Tools. Suppo
  - pkg install curl
 
  - git clone https://github.com/TermuxHackz/wifi-hacker
+
+ - cd wifi-hacker
