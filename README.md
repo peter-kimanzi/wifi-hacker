@@ -428,9 +428,9 @@ Additional terms, permissive or non-permissive, may be stated in the
 form of a separately written license, or stated as exceptions;
 the above requirements apply either way.
 
-  8. Termination.
+8. Termination.
 
-  You may not propagate or modify a covered work except as expressly
+You may not propagate or modify a covered work except as expressly
 provided under this License.  Any attempt otherwise to propagate or
 modify it is void, and will automatically terminate your rights under
 this License (including any patent licenses granted under the third
