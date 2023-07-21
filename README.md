@@ -633,9 +633,9 @@ PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),
 EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
 SUCH DAMAGES.
 
-  17. Interpretation of Sections 15 and 16.
+17. Interpretation of Sections 15 and 16.
 
-  If the disclaimer of warranty and limitation of liability provided
+If the disclaimer of warranty and limitation of liability provided
 above cannot be given local legal effect according to their terms,
 reviewing courts shall apply local law that most closely approximates
 an absolute waiver of all civil liability in connection with the
@@ -646,7 +646,7 @@ copy of the Program in return for a fee.
 
             How to Apply These Terms to Your New Programs
 
-  If you develop a new program, and you want it to be of the greatest
+If you develop a new program, and you want it to be of the greatest
 possible use to the public, the best way to achieve this is to make it
 free software which everyone can redistribute and change under these terms.
 
